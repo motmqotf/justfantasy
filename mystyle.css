@@ -1,0 +1,25 @@
+p{
+    color:azure;
+
+}
+.me {
+    color:blueviolet !important;
+}
+#specialId {
+    color:aqua
+}
+.paragraph.special {
+    color:greenyellow
+
+}
+.list {
+    padding: 0cqw;
+    background-color: dimgray;
+}
+.listItem {
+    color: beige;
+
+}
+.list .listItem {
+    color:saddlebrown;
+}
